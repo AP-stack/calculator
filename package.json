@@ -1,14 +1,14 @@
 {
-  "name": "ReactNativeNWReactCalculator",
+  "name": "calculator",
   "version": "1.0.0",
   "description": "A mobile, desktop and website App with the same code",
-  "author": "Benoit VALLON <benoitvallon@gmail.com> (http://github.com/benoitvallon)",
-  "license": "MIT",
+  "author": "amita1292 <puranik.1292@gmail.com> (http://github.com/amita1292)",
+
   "repository": {
     "type": "git",
-    "url": "https://github.com/benoitvallon/react-native-nw-react-calculator"
+    "url": "https://github.com/amita1292/calculator"
   },
-  "homepage": "https://github.com/benoitvallon/react-native-nw-react-calculator",
+  "homepage": "https://github.com/amita1292/calculator",
   "keywords": [
     "react",
     "react-native",
